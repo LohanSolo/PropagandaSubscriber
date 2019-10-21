@@ -8,7 +8,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:221596324942:android:0415055d5e7556bf",
+        "mobilesdk_app_id": "1:221596324942:android:xxxxxxxxx",
         "android_client_info": {
           "package_name": "com.example.lohith.propagandasubscriber"
         }
@@ -19,7 +19,7 @@
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.lohith.propagandasubscriber",
-            "certificate_hash": "b042f6cd891641dc18ee4e416a9d775f379499a9"
+            "certificate_hash": "xxxxxxxxxxxxxx"
           }
         },
         {
@@ -29,7 +29,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBxIM2jEZIZ0GJfvABKaVNkJ6wPTkPr8JA"
+          "current_key": "xxxxxxxxxxxxxxx"
         }
       ],
       "services": {
